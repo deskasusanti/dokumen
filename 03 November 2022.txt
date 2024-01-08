@@ -1,0 +1,13 @@
+4 issue 
+
+1. email dibuat unique (done)
+2. cek email lagi (done)
+3. bank count nya 0 (done) (solve)
+4. requirement data nya null (solve)
+5. lender data requirement yang masih kosong datanya 
+6. belum ada email dan notifikasi berhasil dibayar 
+7. is cancel dihapus (problem dari sisi ios)(done)
+8. requirement data tidak bisa simpan jika data yang ditambahkan sama
+9. di android status billyet sending seharusnya hanya menampilkan tombol receive saja 
+
+18-09-2022
